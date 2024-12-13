@@ -1,3 +1,5 @@
+## FER using GNNs project description
+
 This project basically is for the Facial Expression Recognition (FER) using Graph Neural Networks. 
 
 The dataset used is "FER2013", there are seven emotions: angry, disgust, fear, happy, neutral, sad, surpise.
